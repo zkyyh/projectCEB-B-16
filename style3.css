@@ -1,0 +1,159 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+header{
+  position: fixed;
+  z-index: 10;
+  height: 80px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+}
+
+header .logo{
+  float: left;
+  color: #08596A;
+  padding: 0px 38px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+header .logo a{
+  text-decoration: none;
+  color: #08596A;
+}
+
+header ul{
+  list-style: none;
+  cursor: pointer;
+  float: right;
+}
+header ul li {
+  list-style: none;
+  display: inline-block;
+  color:#08596A;
+  font-family: 'Raleway', sans-serif;
+  padding: 15px 15px;
+  font-weight: 400;
+}
+header ul li:hover{
+  border-bottom: 3px solid #08596A;
+  transition: all .3s ease;
+}
+header .logo h1{
+  color: #fff;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.search{
+  border:0px solid #08596A;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(background.jpg);
+  background-size: cover;
+  text-align: center;
+  color: #fff
+}
+
+.to}prapper h1 {
+  opacity: 0.7;
+  
+  font-weight: bold;
+  -size: 45px50  letter-spacing: 5px;
+  margin-bottom: 10px
+}
+;
+}
+
+.top-wrapper h2 {
+  font-size:45px;
+  opacity:0.7;
+  letter-spacing:1x
+;
+
+
+}apper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.lesson-wrapper {
+  height: 2000px;
+  width: 100%
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson{
+  float
+.lessons{
+  
+}
+: left;
+  width: 50%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  
+  left: 15px;top: 20px;
+  width: 100%;
+  color: #000000;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 20px;
+  celor: #000000;
+}
+
+footer {
+    backg color: nd-c    height:100px;
+    width:100%;
+    clear:both;adding: 40px;
+    width: 100%;
+}
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+footer li {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    display: inline-block;
+    padding: 5px;
+}
+footer li:hover {
+    color:rgb(255, 0, 0);
+    transition: 500ms;
+  }
+.contact-list{
+  float: right;
+}
